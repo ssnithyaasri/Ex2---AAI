@@ -84,7 +84,11 @@ print(res2)
 
 ## Output :
 ![image](https://github.com/user-attachments/assets/b857605d-89b6-4799-9994-f20d774fa2d1)
-![image](https://github.com/user-attachments/assets/ca0fdff5-7b9a-488d-a559-9efe21906441)
+![image](https://github.com/user-attachments/assets/41825c44-30e5-45a9-bcbf-477869055cd5)
+
+
+
+
 
 
 
