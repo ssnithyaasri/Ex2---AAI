@@ -80,16 +80,10 @@ evidence2={"JohnCalls":1,"MaryCalls":1}
 res2=inference.query(variables=[query],evidence=evidence2)
 print(res2)
 ```
-
-
 ## Output :
+
 ![image](https://github.com/user-attachments/assets/b857605d-89b6-4799-9994-f20d774fa2d1)
-![image](https://github.com/user-attachments/assets/41825c44-30e5-45a9-bcbf-477869055cd5)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/35dd9748-5c86-49fa-9381-c49d5c2b65ef)
 
 
 ## Result :
